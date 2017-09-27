@@ -8,6 +8,9 @@ permalink: camerata-novnorte
 background-image: cameratanovnorte.jpg
 image: cameratanovnorte.jpg
 --- 
+
+<iframe width="560" height="420" src="https://youtu.be/NV1RBqZHKvQ?color=white&theme=light"></iframe>
+
 Camerata NovNorte é uma orquestra de câmara de cordas, constituída por representantes da nova geração de músicos do Norte de Portugal.  
   
 O trabalho desenvolvido na Camarata NovNorte, dirigida pelo prof. Radu Ungureanu, centra-se no repertório de todas as épocas da música instrumental, destinado a este tipo de agrupamento. A sua problemática específica, parcialmente diferente da problemática sinfónica ou da música de câmara, representa um complemento na formação dos instrumentistas.  
