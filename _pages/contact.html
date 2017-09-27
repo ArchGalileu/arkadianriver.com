@@ -1,9 +1,9 @@
 ---
 key: 3
-title: Contact
-permalink: /contact/
+title: Contato
+permalink: /contato/
 options: nolanding
-excerpt: Get in touch
+excerpt: Fale conosco
 background-image: caustic_light.jpg
 script-includes:
   - /js/jquery.validate.min.js
@@ -15,24 +15,24 @@ script: |
   <form id="sendemail" method="post" action="{{ site.data.tokens.mailaction }}">
     <div class="row uniform">
       <div class="6u 12u$(xsmall)">
-        <input type="text" name="name" id="name" value="" placeholder="Name" />
+        <input type="text" name="name" id="name" value="" placeholder="Nome" />
       </div>
       <div class="6u$ 12u$(xsmall)">
         <input required type="email" name="email" id="email" value="" placeholder="Email" />
       </div>
       <div class="12u$">
-        <input required type="text" minlength="2" name="subject" id="subject" value="" placeholder="Subject" />
+        <input required type="text" minlength="2" name="subject" id="subject" value="" placeholder="Assunto" />
       </div>
       <div class="12u$">
-        <textarea required name="textbody" id="textbody" placeholder="Type your message" rows="6"></textarea>
+        <textarea required name="textbody" id="textbody" placeholder="A mensagem" rows="6"></textarea>
       </div>
       <div class="6u$ 12u$(xsmall)">
         <img src="{{ site.data.tokens.captchascript }}"/><br />
-        <input required type="text" name="captcha" id="captcha" placeholder="Type the numbers you see" />
+        <input required type="text" name="captcha" id="captcha" placeholder="Escreva os números que visualiza" />
       </div>
       <div class="12u$">
         <ul class="actions">
-          <li><input type="submit" value="Send Message" class="special" /></li>
+          <li><input type="submit" value="Enviar" class="special" /></li>
         </ul>
       </div>
     </div>
