@@ -27,10 +27,10 @@ greeting:
   title: Proposta!  
   text: I hope you enjoy my collection
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Propostas
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+closing-head: Obrigado
+closing-para: Comunique para avançarmos!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
