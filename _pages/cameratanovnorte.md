@@ -6,6 +6,7 @@ layout: page
 excerpt: Front-matter guide for site pages and posts
 permalink: camerata-novnorte
 background-image: cameratanovnorte.jpg
+image: cameratanovnorte.jpg
 --- 
 Camerata NovNorte é uma orquestra de câmara de cordas, constituída por representantes da nova geração de músicos do Norte de Portugal.  
   

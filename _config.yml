@@ -25,7 +25,7 @@ url: "http://tmvr.gasparsantos.eu" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Proposta!  
-  text: I hope you enjoy my collection
+  text: Espero que goste!
 # - title for your blog's featured posts
 features-title: Propostas
 # - displayed at the bottom
