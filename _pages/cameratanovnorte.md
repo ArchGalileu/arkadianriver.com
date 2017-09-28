@@ -7,7 +7,7 @@ excerpt: Front-matter guide for site pages and posts
 permalink: camerata-novnorte
 background-image: cameratanovnorte.jpg
 image: cameratanovnorte.jpg
-youtube: NV1RBqZHKvQ
+youtube: 6M2Sb7xMLA4
 --- 
 {% include youtube.html %}
 
