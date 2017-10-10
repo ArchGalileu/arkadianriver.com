@@ -1,11 +1,15 @@
 ---
 title: My Topic Group
 excerpt: first topic in my neat grouping
-permalink: /topics/my topic group/
+permalink: "/topics/my topic group/"
 categories:
-  - topics
-  - my topic group
-date: 3006-09-22 00:00
+- topics
+- my topic group
+date: 3006-09-22 00:00:00 +0000
 ---
 
+
 Here we go.
+
+![](/images/sunshine.jpg)
+
