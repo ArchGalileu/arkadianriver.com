@@ -12,6 +12,7 @@ image: temporada2018.png
 #### Obras primas para ensemble de cordas
 
 ## Camerata NovNorte
+---
 
 **I.** *(1ª metade de Janeiro ou 2ª do Fevereiro)* 
 
@@ -72,11 +73,15 @@ image: temporada2018.png
 -- Solista: **Constantin Sandu**
 - **P. I. Tchaikovsky** – Serenata para Cordas
 
+---
+---
+
 #### Quarteto de Cordas por volta de Beethoven
 
 ## Quarteto Douro
 
-##### Eixo da programação: Início da Integral dos Quartetos de Beethoven, com apresentação
+##### Eixo da programação: Início da Integral dos Quartetos de Beethoven, com apresentação   
+---
 
 
 **I.** *(Janeiro-Fevereiro)*   
