@@ -1,11 +1,11 @@
 ---
-key: 3
-id: 2
-title: Quarteto Douro
+key: 2
+id: 1
+title: Radu Ungureanu
 layout: page
 #categories: topics
-excerpt: desde 2009
-permalink: quarteto-douro
+excerpt: Diretor Artístico
+permalink: radu-ungureanu
 background-image: quartetodouro.jpg
 image: quartetodouro.jpg
 ---

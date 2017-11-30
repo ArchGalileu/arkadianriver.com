@@ -1,11 +1,11 @@
 ---
 key: 1
 id: 3
-title: Programas
+title: Programa
 layout: page
 #categories: topics
 excerpt: grandes momentos da música para instrumentos de cordas
-permalink: programas
+permalink: programa
 background-image: temporada2018.png
 image: temporada2018.png
 ---
