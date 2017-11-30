@@ -6,8 +6,8 @@ layout: page
 #categories: topics
 excerpt: Diretor Artístico
 permalink: radu-ungureanu
-background-image: quartetodouro.jpg
-image: quartetodouro.jpg
+background-image: radu.jpg
+image: radu.jpg
 ---
 
 Músico luso-romeno, formou-se nas escolas romenas e, sob a orientação dos professores Varoujan Cozighian e Avy Abramovici, concluiu a licenciatura em violino na Escola Superior de Música C. Porumbesco de Bucareste, com a classificação máxima.
