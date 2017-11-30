@@ -10,25 +10,15 @@ background-image: quartetodouro.jpg
 image: quartetodouro.jpg
 ---
 
-Constituído por Radu Ungureanu e Gaspar Santos, nos violinos, Teresa Correia, na violeta, e Dinis Lecomte, no violoncelo, o quarteto de cordas “Douro” nasceu como consequência da junção prática de afinidades musicais, mas também de personalidades com características distintas, dos quatro instrumentistas.
-
-Entre os vários géneros musicais abordados, o quarteto de cordas ocupa um lugar privilegiado. A sua homogeneidade, assegurada pelos quatro instrumentistas, pertencentes à mesma família (das cordas friccionadas), bem como o extenso leque de capacidades técnicas e expressivas, ofereceu um fértil campo de acção aos compositores de várias épocas.
-
-Surgido nos meados do século XVIII, o quarteto de cordas conquistou rapidamente o lugar de eleição entre os meios disponíveis para exprimir pensamentos musicais. Compositores como Haydn, Mozart, Beethoven, Schubert, Bartók – e muitos outros – criaram, ao longo da vida, as mais significativas obras-primas deles precisamente neste género musical.
-
-Foi agrupamento residente no Museu do Douro, Régua (2009-2010) numa série de 15 concertos.
-
-Apresentou-se na Capital Europeia da Cultura 2012 em Guimarães.
-
-Com presença na Casa da Música, Porto, Museu dos Azulejos, Lisboa 2013, Gaia World Music 2014, 2015 e 2016, Festival de Música de Viseu 2015 e 2016, Palácio da Bolsa, Porto 2015.
-
-Festival de Outono em Aveiro, 2016.
-
-Apresentação em Aveiro da obra do compositor Armando Santiago (residente no Canadá) (2016) e registo da mesma em CD.
-O quarteto de cordas “Douro” propõe a divulgação deste repertório “de ouro”, numa visão interpretativa actual, prestando particular atenção à autenticidade estilística.
-
-
-RADU UNGUREANU, violino
-GASPAR SANTOS, violino
-TERESA CORREIA, viola
-DINIS LECOMTE, violoncelo
+Músico luso-romeno, formou-se nas escolas romenas e, sob a orientação dos professores Varoujan Cozighian e Avy Abramovici, concluiu a licenciatura em violino na Escola Superior de Música C. Porumbesco de Bucareste, com a classificação máxima.
+Aperfeiçoou-se ainda em vários masterclass, com violinistas como Yury Yankelewitch, Ralph Evans, Ruben Gonzales e, em música de câmara, com os membros dos quartetos Amadeus, Smetana, Tatrai, Alban Berg e Fine Arts.
+Ganhou vários prémios em concursos nacionais de violino, música de câmara e composição e alcançou uma careira internacional, concretizada em digressões solísticas ou de música de câmara, pela França, Holanda, Alemanha, Bélgica, Itália, EUA, Espanha, Portugal, Inglaterra, Hungria, Bulgária, Roménia, entre outros.
+Participou igualmente em festivais internacionais, como os de Bucareste, Oradea, Colónia, Constanţa, Amsterdão, Cagliari, Ferrol, Pyongyang, Kerkrade, Lisboa, Aveiro, Coimbra, Bacau, Brașov, Açores, etc.
+Radu Ungureanu possui um vasto repertório, que abrange vários géneros e estilos musicais, o que lhe permitiu sustentar, ao longo dos anos, centenas de recitais a solo, com piano ou com orquestra, ou nas mais diversas combinações camerais.
+Foi o primeiro violinista a apresentar em recital a Integral das Seis Sonatas e Partitas para Violino Solo de Bach em Portugal (2009, Casa da Música) e na Roménia (1985, Ateneu Romeno).
+Com o quarteto Serioso, realizou em Bucareste a Integral dos Quartetos de Beethoven (1987) e de Mozart (1989-1990). Em 2008 fundou o quarteto de cordas Douro.
+Assíduo defensor da música contemporânea, actuou em grupos como Música Nova (Bucareste) ou Oficina Musical (Porto), apresentando inúmeras estreias mundiais. Compositores, como Wilhelm Berger, Zeno Vancea, Cristian Petrescu, Virgílio Melo, entre outros, dedicaram-lhe obras.
+É doutorado em música pela Universidade de Aveiro.
+Foi primeiro violino da Filarmónica George Enescu (Bucareste) e 1o Concertino da Orquestra da Radiodifusão Nacional Romena. Atualmente é Concertino Assistente da Orquestra Sinfónica do Porto Casa da Música.
+Desde 1995, como professor de violino na Escola Superior de Música e Artes do Espectáculo do Porto, formou um significativo número de violinistas licenciados e mestrados, que ocupam posições de destaque no actual panorama musical português.
+Em 2011 fundou a orquestra de cordas Camerata NovNorte, sendo seu diretor artístico e maestro.
