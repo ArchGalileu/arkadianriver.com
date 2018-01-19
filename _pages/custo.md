@@ -17,9 +17,14 @@ Fora de Lisboa ou Porto as possibilidade são quase nulas ou mesmo nulas.
 Qualificar todos os cidadãos afetos a essas regiões não é tarefa fácil, mas é possível com um custo muito inferior a qualquer espectáculo, sendo que neste caso trata-se de um "concerto".  
   
 >Estas propostas são possíveis pela repetição do mesmo programa em salas diferentes, tanto quanto possível, em datas próximas, reforçando, tanto quanto possível.
-
   
-#### Valores para concretizar
+#### Valores para concretizar  
+O número de concertos abaixo indicado refere-se à "repetição" do programa e não a um "pack" de cocertos que apenas uma entidade adquire.
+No entanto, se por exemplo, 3 entidades adquirirem 3 concertos emtão sim podemos usar a mesma tabela.
+Qualquer dúvida não hesite em perguntar de forma a que seja transparente toda a relação com ou sem resultado prático.  
+  
+>É do vosso/nosso interesse que participem ativamente na nossa/vossa procura de parceiros a fim de todos termos as melhores condições e possámos redirecionar/acontecer a apresentação regular da Música Clássica.
+  
 ---
 
 ## Quarteto Douro
@@ -27,12 +32,12 @@ Qualificar todos os cidadãos afetos a essas regiões não é tarefa fácil, mas
 |Nº de Concertos   	|Honorários por Concerto   	|
 |:---:	            |:---:	                    |
 |1   	            |1600€   	                |
-|2   	            |1500€   	                |
-|3   	            |1400€   	                |
-|4   	            |1300€   	                |
-|5   	            |1200€   	                |
-|6   	            |1100€   	                |
-|7   	            |1000€   	                |
+|2   	            |1360€   	                |
+|3   	            |1250€   	                |
+|4   	            |1200€   	                |
+|5   	            |1150€   	                |
+|6   	            |1000€   	                |
+|7   	            | 900€   	                |
 
 ---
 ---
@@ -41,13 +46,11 @@ Qualificar todos os cidadãos afetos a essas regiões não é tarefa fácil, mas
 
 |Nº de Concertos   	|Honorários por Concerto   	|
 |:---:	            |:---:	                    |
-|1   	            |3800€   	                |
-|2   	            |3600€   	                |
-|3   	            |3400€   	                |
-|4   	            |3200€   	                |
-|5   	            |3000€   	                |
-|6   	            |2800€   	                |
-|7   	            |2600€   	                |
-|8                  |2400€                      |
-|9                  |2200€                      |
-|10                 |2000€                      |
+|1   	            |3600€   	                |
+|2   	            |3000€   	                |
+|3   	            |2700€   	                |
+|4   	            |2500€   	                |
+|5   	            |2300€   	                |
+|6   	            |2100€   	                |
+|7   	            |1900€   	                |
+|8                  |1700€                      |
