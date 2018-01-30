@@ -14,7 +14,7 @@ image: temporada2018.png
 ## Camerata NovNorte
 ---
 
-**I.** *(1ª metade de Janeiro ou 2ª do Fevereiro)* 
+**I.** *(Março - Abril)*  
 
 ![Samuel Barber](https://media.npr.org/assets/music/specials/barber_100/barberbio-0c23dece6c64b7d2b020008d72aae58c0dcf5a8d-s300-c85.jpg){:width="100px"}
 ![Franz Schubert](https://upload.wikimedia.org/wikipedia/commons/f/fb/Franz_Schubert_by_Wilhelm_August_Rieder.jpeg){:width="100px"}
@@ -27,7 +27,7 @@ image: temporada2018.png
 
 ---
 
-**II.** *(Março-Abril)*   
+**II.** *(Maio - Junho)*   
 
 ![Rudolf Hoffstetter](https://lastfm-img2.akamaized.net/i/u/avatar300s/e53495a4ab8441a985ce98b87b934488.jpg){:width="100px"}
 ![W. A. Mozart](https://www.wien.info/media/images/mozart-gemaelde-von-barbara-krafft-3to2.jpeg){:width="100px"}
@@ -39,7 +39,7 @@ image: temporada2018.png
 
 ---
 
-**III.** *(Maio-Junho)*   
+**III.** *(Julho)*   
 
 ![G. Lekeu](https://upload.wikimedia.org/wikipedia/commons/e/e6/Guillaume_Lekeu_ca._1886.jpg){:width="100px"}
 ![J. S. Bach](https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg){:width="100px"}
@@ -84,7 +84,7 @@ image: temporada2018.png
 ---
 
 
-**I.** *(Janeiro-Fevereiro)*   
+**I.** *(Março)*   
 
 ![W. A. Mozart](https://www.wien.info/media/images/mozart-gemaelde-von-barbara-krafft-3to2.jpeg){:width="100px"}
 ![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
@@ -94,7 +94,7 @@ image: temporada2018.png
 
 ---
 
-**II.** *(Antes da Páscoa)*   
+**II.** *(Páscoa)*   
 
 ![J. Haydn](https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg){:width="100px"}
 
@@ -102,7 +102,7 @@ image: temporada2018.png
 
 ---
 
-**III.** *(Junho)*   
+**III.** *(Maio - Junho)*   
 
 ![J. Haydn](https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg){:width="100px"}
 ![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
