@@ -32,4 +32,4 @@ Foi primeiro violino da Filarmónica George Enescu (Bucareste) e 1o Concertino d
 
 Desde 1995, como professor de violino na Escola Superior de Música e Artes do Espectáculo do Porto, formou um significativo número de violinistas licenciados e mestrados, que ocupam posições de destaque no actual panorama musical português.  
 
-Em 2011 fundou a orquestra de cordas Camerata NovNorte, sendo seu diretor artístico e maestro.
+Em 2009 fundou a orquestra de cordas Camerata NovNorte, sendo seu diretor artístico e maestro.
