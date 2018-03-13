@@ -8,7 +8,9 @@ excerpt: desde 2008
 permalink: quarteto-douro
 background-image: quartetodouro.jpg
 image: quartetodouro.jpg
+youtube: A49t_vbMcfo?start=3279
 ---
+{% include youtube.html %}
 
 Constituído por Radu Ungureanu e Gaspar Santos, nos violinos, Teresa Correia, na violeta, e Dinis Lecomte, no violoncelo, o quarteto de cordas “Douro” nasceu como consequência da junção prática de afinidades musicais, mas também de personalidades com características distintas, dos quatro instrumentistas.
 
